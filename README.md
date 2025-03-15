@@ -1,4 +1,15 @@
-# React + Vite
+# React + Vite + AI 
+
+Project Dashboard SPA
+
+command
+
+git add .
+git commit -m ""
+git push -u origin master
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
